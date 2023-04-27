@@ -9,7 +9,7 @@
 -->
 🌱 I’m currently learning how to be an DevOps
 
-PERSONAL PROJECTS
+<b>PERSONAL PROJECTS</b>
 Automation of scheduling for cinemas based on
 predicted session attendance (12/2018 - 10/2019)
 Predicting subsequent items in the cart based on
