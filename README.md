@@ -3,7 +3,12 @@
 <!--
 **ImGhostDev/ImGhostDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+- 🌱 I’m currently learning how to be an DevOps
+-->
+🌱 I’m currently learning how to be an DevOps
+
 PERSONAL PROJECTS
 Automation of scheduling for cinemas based on
 predicted session attendance (12/2018 - 10/2019)
@@ -21,6 +26,3 @@ A recommendation system for similar products and
 cross-sell for a grocery company (05/2021 - 10/2021)
 Event Team Popularity model for popular sport events ranging (12/2021-10/2022)
 Best communication time analysis (10/2022-Present)
-
-- 🌱 I’m currently learning how to be an DevOps
--->
